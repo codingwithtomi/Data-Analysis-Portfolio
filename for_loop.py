@@ -69,10 +69,10 @@
 #     print("Done!")
 
 
-fruits = ["apple", "banana", "cherry"]
-for x in fruits:
-    if x == "orange":
-        print("Found orange!")
-        break
-else:
-    print("No orange found")
+# fruits = ["apple", "banana", "cherry"]
+# for x in fruits:
+#     if x == "orange":
+#         print("Found orange!")
+#         break
+# else:
+#     print("No orange found")
