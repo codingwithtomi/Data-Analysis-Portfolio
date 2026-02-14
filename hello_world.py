@@ -1,8 +1,3 @@
-number = input("1: ")
-number = int(number)
-if number > 0:
-    print("Positive")
-elif number == 0:
-    print("Zero")
-else:
-    print("Negative")
+numbers = [1, 2, 3, 4]
+result = filter(lambda x: x % 2 == 0, numbers)
+print(list(result))
