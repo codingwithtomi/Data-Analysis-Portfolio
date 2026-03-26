@@ -1,0 +1,5 @@
+colors = ["red", "blue", "green", "yellow", "purple"]
+
+print(f"First color: {colors[0]}")
+print(f"Last color: {colors[-1]}")
+print(f"Total colors: {len(colors)}")
